@@ -229,6 +229,6 @@ providers:
     # Name or URL of the JavaScript and/or stylesheet CDN provider
     cdn: jsdelivr
     # Name or URL of the webfont CDN provider
-    fontcdn: google
+    fontcdn: geekzu
     # Name or URL of the webfont Icon CDN provider
     iconcdn: fontawesome
