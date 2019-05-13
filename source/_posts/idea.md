@@ -2,9 +2,9 @@
 title: 灵感笔记
 date: 2019-05-13 05:01:58
 tags: 思考
+thumbnail: /images/idea-spark.jpg
+banner: /images/idea-spark.jpg
 ---
-
-![](/images/idea-spark.jpg)
 
 ## 分布式的社交网络
 
