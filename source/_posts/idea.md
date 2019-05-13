@@ -2,7 +2,7 @@
 title: 灵感笔记
 date: 2019-05-13 05:01:58
 tags: 思考
-thumbnail: /images/idea-spark.jpg
+thumbnail: /images/idea.svg 
 banner: /images/idea-spark.jpg
 ---
 
