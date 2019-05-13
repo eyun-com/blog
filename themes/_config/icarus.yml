@@ -23,9 +23,9 @@ open_graph:
 navbar:
     # Navigation bar menu links
     menu:
-        主页: /
-        文章: /archives
-        分类: /categories
+        主页 : /
+        时间轴 : /archives
+        分类 : /categories
         标签 : /tags
         关于 : /about
     # Navigation bar links to be shown on the right
